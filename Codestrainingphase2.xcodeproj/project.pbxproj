@@ -15,6 +15,8 @@
 		45D3F10B1C526AFB00F95D0F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 45D3F1091C526AFB00F95D0F /* LaunchScreen.storyboard */; };
 		45D3F1161C526AFB00F95D0F /* Codestrainingphase2Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 45D3F1151C526AFB00F95D0F /* Codestrainingphase2Tests.m */; };
 		45D3F1211C526AFB00F95D0F /* Codestrainingphase2UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 45D3F1201C526AFB00F95D0F /* Codestrainingphase2UITests.m */; };
+		45D3F1341C5276D300F95D0F /* checkboxMarked.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D3F1321C5276D300F95D0F /* checkboxMarked.png */; };
+		45D3F1351C5276D300F95D0F /* checkboxBlank.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D3F1331C5276D300F95D0F /* checkboxBlank.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +53,8 @@
 		45D3F11C1C526AFB00F95D0F /* Codestrainingphase2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Codestrainingphase2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		45D3F1201C526AFB00F95D0F /* Codestrainingphase2UITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Codestrainingphase2UITests.m; sourceTree = "<group>"; };
 		45D3F1221C526AFB00F95D0F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		45D3F1321C5276D300F95D0F /* checkboxMarked.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = checkboxMarked.png; sourceTree = "<group>"; };
+		45D3F1331C5276D300F95D0F /* checkboxBlank.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = checkboxBlank.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +105,8 @@
 		45D3F0FA1C526AFB00F95D0F /* Codestrainingphase2 */ = {
 			isa = PBXGroup;
 			children = (
+				45D3F1321C5276D300F95D0F /* checkboxMarked.png */,
+				45D3F1331C5276D300F95D0F /* checkboxBlank.png */,
 				45D3F0FE1C526AFB00F95D0F /* AppDelegate.h */,
 				45D3F0FF1C526AFB00F95D0F /* AppDelegate.m */,
 				45D3F1011C526AFB00F95D0F /* ViewController.h */,
@@ -243,6 +249,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				45D3F1341C5276D300F95D0F /* checkboxMarked.png in Resources */,
+				45D3F1351C5276D300F95D0F /* checkboxBlank.png in Resources */,
 				45D3F10B1C526AFB00F95D0F /* LaunchScreen.storyboard in Resources */,
 				45D3F1081C526AFB00F95D0F /* Assets.xcassets in Resources */,
 				45D3F1061C526AFB00F95D0F /* Main.storyboard in Resources */,
