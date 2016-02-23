@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "CB78E27E0E66354AD0DEA0A8EA78DB518DD37C96",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "CB78E27E0E66354AD0DEA0A8EA78DB518DD37C96" : 0,
+    "3FCE03E7986610AD3BA7E73DB8108CEF72C9865D" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E9152F6B-299A-4D1C-B158-B180C925E07D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "CB78E27E0E66354AD0DEA0A8EA78DB518DD37C96" : "IOS-CheckBox-Exceptions\/",
+    "3FCE03E7986610AD3BA7E73DB8108CEF72C9865D" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Codestrainingphase2",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Codestrainingphase2.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/tlguimaraes\/Master.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3FCE03E7986610AD3BA7E73DB8108CEF72C9865D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/tlguimaraes\/IOS-CheckBox-Exceptions.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CB78E27E0E66354AD0DEA0A8EA78DB518DD37C96"
+    }
+  ]
+}

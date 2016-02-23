@@ -8,7 +8,7 @@
 
 #import <XCTest/XCTest.h>
 
-@interface Codestrainingphase2Tests : XCTestCase
+@interface Codestrainingphase2Tests : XCTestCase 
 
 @end
 
